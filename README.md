@@ -5,8 +5,6 @@
 ## جرب أونلاين
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gold-analysis-bot-hcykeqyqpsb93koih96x7e.streamlit.app)
 
-(بعد الـ deploy غيّر الرابط)
-
 ## Local run
 ```bash
 pip install -r requirements.txt
