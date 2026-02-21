@@ -3,7 +3,7 @@
 بوت تحليل يومي للذهب (XAUUSD) – مجاني
 
 ## جرب أونلاين
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gold-analysis-bot-hcykeqyqpsb93koih96x7e.streamlit.app)
 
 (بعد الـ deploy غيّر الرابط)
 
